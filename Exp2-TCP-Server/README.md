@@ -1,6 +1,6 @@
 # Experiment 2: TCP Echo Server
 
-## C Code (`server1242.c`)
+## C Code (`server1230.c`)
 
 ```c
 #include <stdio.h>
